@@ -1,0 +1,40 @@
+_repo: Things-To-Make_14664
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Archibald
+    birthdate: 1871
+    deathdate: 1934
+    gutenberg_agent_id: '5620'
+    url: http://www.gutenberg.org/2009/agents/5620
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2005-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Industrial arts'
+- !lcsh 'Do-it-yourself work'
+tableOfContents: Sawing trestle -- A joiner's bench -- A handy bookstand -- A house
+  ladder -- A developing sink -- A poultry house and run -- A shed for your bicycle
+  -- A target apparatus for rifle shooting -- Cabinet-making -- Telegraphic apparatus
+  -- A reciprocating electric motor -- An electric alarm clock -- A model electric
+  railway -- A simple reciprocating engine -- A horizontal slide-valve engine -- Model
+  steam turbines -- Steam tops -- Model boilers -- Quick-boiling kettles -- A hot-air
+  engine -- A water motor -- Model pumps -- Kites -- Paper gliders -- A self-launching
+  model aeroplane -- Apparatus for simple scientific experiments -- A rain gauge --
+  Wind vanes with dials -- A strength-testing machine -- Lung-testing apparatus --
+  Home-made harmonographs -- A self-supplying matchbox -- A wooden workbox -- Wrestling
+  puppets -- Double bellows -- A home-made pantograph -- A silhouette drawing machine
+  -- A signalling lamp -- A miniature gasworks.
+title: Things To Make
+url: http://www.gutenberg.org/ebooks/14664
